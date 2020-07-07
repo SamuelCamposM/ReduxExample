@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "editado confirmado",
+      "precio": "1100",
+      "id": 2
+    },
+    {
+      "nombre": "Guisele Martinez de Leon.",
+      "precio": 5000,
+      "id": 3
+    },
+    {
+      "nombre": "Sandra Cortez",
+      "precio": 10000,
+      "id": 4
+    }
+  ]
+}
